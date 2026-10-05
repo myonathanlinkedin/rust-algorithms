@@ -2,7 +2,7 @@
 > Production-grade algorithms, zero-cost abstractions, and memory-safe concurrency primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/rust-algorithms/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-1%20Modules-blue?style=for-the-badge&logo=rust)](https://github.com/myonathanlinkedin/rust-algorithms)
+[![Total Modules](https://img.shields.io/badge/Algorithms-2%20Modules-blue?style=for-the-badge&logo=rust)](https://github.com/myonathanlinkedin/rust-algorithms)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/rust-algorithms)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -14,6 +14,7 @@
 | # | Module / Algorithm | Category | Time Complexity | Space Complexity | Verification Driver | Source Code |
 |---|---|---|:---:|:---:|:---:|:---:|
 | 1 | **B-Tree Multiway Balanced Search Tree Node Splitter** | rust | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_055651_b-tree_multiway_balanced_searc/main.rs) |
+| 2 | **Topological Sort with Cycle Detection in Directed Graphs** | rust | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_062758_topological_sort_with_cycle_de/main.rs) |
 
 ---
 
@@ -42,4 +43,4 @@ cargo test --release
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 05:56 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 06:28 UTC*</sub>
