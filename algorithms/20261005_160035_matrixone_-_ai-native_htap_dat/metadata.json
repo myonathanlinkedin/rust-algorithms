@@ -1,0 +1,12 @@
+{
+  "topic": "Matrixone - AI-native HTAP database with Git-for-Data and built-in vector search, serving",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-05T16:00:35.447262+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
