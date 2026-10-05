@@ -1,0 +1,8 @@
+{
+  "topic": "Red-Black Tree with Deterministic Balance Assertions",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-05T06:17:04.288384+00:00",
+  "source_file": "main.rs"
+}
