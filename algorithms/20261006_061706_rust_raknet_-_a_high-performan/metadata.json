@@ -1,0 +1,12 @@
+{
+  "topic": "Rust Raknet - A high-performance asynchronous networking library",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-06T06:17:06.234051+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
