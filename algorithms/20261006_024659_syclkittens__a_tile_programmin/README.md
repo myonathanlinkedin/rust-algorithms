@@ -1,27 +1,33 @@
-# SyclKittens: A Tile Programming Model for Programmers and Coding Agents on Intel GPUs in Rust
+# Tiled GPU Matrix Computation and Memory Kernel Model (Rust)
 
-High-performance **SyclKittens: A Tile Programming Model for Programmers and Coding Agents on Intel GPUs** primitive implemented in idiomatic **Rust**. Built from scratch using standard library constructs with zero external dependencies.
+> Self-contained **Tiled GPU Matrix Computation and Memory Kernel Model** algorithmic primitive written in idiomatic **Rust**. Built from scratch using standard library constructs with zero external dependencies.
 
-## Implementation Details
+## Overview & Mechanics
 
-* **Category**: `Algorithmic Engineering`
-* **Data Structure Foundation**: `Standard Memory Primitives`
-* **Allocation Pattern**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Invariant Integrity**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+The implementation focuses on the core mathematical properties of **Tiled GPU Matrix Computation and Memory Kernel Model**:
+* **Data Organization**: Built upon `Lookup Tables & Bitwise Bitvectors` to ensure predictable traversal and storage overhead.
+* **Safety Invariants**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Execution Guarantees**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
-## Performance Characteristics
+## Complexity Profile
 
-* **Time**: `$O(N)$` average, with `$O(1)$` best-case response under ideal conditions.
-* **Space**: `$O(N)$` memory usage.
+* **Time Complexity**:
+  * Fast Path (Best): `O(N log N)`
+  * Generalized (Avg / Worst): `O(N log N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
-## Test Harness
+## Verification & Test Scenarios
 
-To compile and execute the test assertions for this module:
+The test suite in `main.rs` validates:
+* Standard operational paths against expected outcomes.
+* Extreme values and edge inputs to ensure robust failure handling.
+* State stability across sequential and repeated operations.
 
 ```bash
+# Execute local verification runner
 rustc -O main.rs -o runner && ./runner
 ```
 
 ---
 
-*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Source code released under the MIT License • [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

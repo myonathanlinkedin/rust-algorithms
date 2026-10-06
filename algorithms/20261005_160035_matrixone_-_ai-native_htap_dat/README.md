@@ -1,6 +1,6 @@
 # Matrixone - AI-native HTAP database with Git-for-Data and built-in vector search, serving
 
-Modern **Rust** reference architecture for **Matrixone - AI-native HTAP database with Git-for-Data and built-in vector search, serving**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+Core **Rust** implementation for **Matrixone - AI-native HTAP database with Git-for-Data and built-in vector search, serving**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ---
 
@@ -9,16 +9,16 @@ Modern **Rust** reference architecture for **Matrixone - AI-native HTAP database
 This module organizes `Matrixone - AI-native HTAP database with Git-for-Data and built-in vector search, serving` into an isolated, self-contained unit:
 * **Domain Focus**: `Computational Mathematics & Transformation`
 * **Primary Primitives**: `Lookup Tables & Bitwise Bitvectors`
-* **Memory Strategy**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Correctness Model**: State consistency is verified after every mutation through formal invariant validation.
+* **Memory Strategy**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Correctness Model**: State consistency is verified after mutations through assertion test coverage.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(N \log N)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N \log N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(N log N)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N log N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 

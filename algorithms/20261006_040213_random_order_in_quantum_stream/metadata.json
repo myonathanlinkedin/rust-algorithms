@@ -1,5 +1,5 @@
 {
-  "topic": "Random Order in Quantum Streaming: Replenishment and Robust Lower Bounds",
+  "topic": "Robust Streaming Buffer Management and Replenishment Bounds",
   "language": "Rust",
   "extension": ".rs",
   "category": "rust",

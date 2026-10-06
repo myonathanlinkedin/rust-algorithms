@@ -1,6 +1,6 @@
 # Rust Raknet - A high-performance asynchronous networking library
 
-Production-ready implementation of the **Rust Raknet - A high-performance asynchronous networking library** algorithm in **Rust**, adhering to idiomatic design patterns, cache-friendly data layouts, and comprehensive test assertions.
+An in-memory reference implementation of **Rust Raknet - A high-performance asynchronous networking library** in **Rust**, adhering to standard library idioms, clean data structures, and assertion test suites.
 
 ---
 
@@ -9,16 +9,16 @@ Production-ready implementation of the **Rust Raknet - A high-performance asynch
 This module organizes `Rust Raknet - A high-performance asynchronous networking library` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Correctness Model**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Memory Strategy**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Correctness Model**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 

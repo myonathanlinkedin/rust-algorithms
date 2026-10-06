@@ -1,5 +1,5 @@
 {
-  "topic": "SyclKittens: A Tile Programming Model for Programmers and Coding Agents on Intel GPUs",
+  "topic": "Tiled GPU Matrix Computation and Memory Kernel Model",
   "language": "Rust",
   "extension": ".rs",
   "category": "rust",
