@@ -1,0 +1,12 @@
+{
+  "topic": "Tapo (Rust/library) now speaks TP-Link s TPAP protocol",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-06T17:36:55.678549+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
