@@ -1,0 +1,12 @@
+{
+  "topic": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-07T13:03:03.105327+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
