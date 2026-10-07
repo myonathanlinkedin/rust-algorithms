@@ -2,7 +2,7 @@
 > Production-grade algorithms, zero-cost abstractions, and memory-safe concurrency primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/rust-algorithms/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-58%20Modules-blue?style=for-the-badge&logo=rust)](https://github.com/myonathanlinkedin/rust-algorithms)
+[![Total Modules](https://img.shields.io/badge/Algorithms-59%20Modules-blue?style=for-the-badge&logo=rust)](https://github.com/myonathanlinkedin/rust-algorithms)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/rust-algorithms)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -71,6 +71,7 @@
 | 56 | **Async Concurrency: Where does the scheduler live?** | rust | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_100205_async_concurrency__where_does/main.rs) |
 | 57 | **Async Concurrency: Where does the scheduler live?** | rust | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_105419_async_concurrency__where_does/main.rs) |
 | 58 | **An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust** | rust | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_130303_an_open-source__clean-room_rei/main.rs) |
+| 59 | **Async Concurrency: Where does the scheduler live?** | rust | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_131525_async_concurrency__where_does/main.rs) |
 
 ---
 
@@ -99,4 +100,4 @@ cargo test --release
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 13:03 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 13:15 UTC*</sub>
