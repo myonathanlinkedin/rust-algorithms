@@ -1,0 +1,12 @@
+{
+  "topic": "Async Concurrency: Where does the scheduler live?",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-07T05:31:52.345648+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
