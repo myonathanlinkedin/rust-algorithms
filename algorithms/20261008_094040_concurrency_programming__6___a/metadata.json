@@ -1,0 +1,12 @@
+{
+  "topic": "Concurrency Programming (6): Atomic Implementation \u2014 From Runtime to CPU",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-08T09:40:40.949586+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
