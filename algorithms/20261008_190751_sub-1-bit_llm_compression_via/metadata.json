@@ -1,0 +1,13 @@
+{
+  "topic": "Sub-1-Bit LLM Compression via Latent Factorization",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-08T19:07:51.158739+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "types.rs",
+    "engine.rs",
+    "main.rs"
+  ]
+}
