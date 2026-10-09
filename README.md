@@ -2,7 +2,7 @@
 > Production-grade algorithms, zero-cost abstractions, and memory-safe concurrency primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/rust-algorithms/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-14%20Modules-blue?style=for-the-badge&logo=rust)](https://github.com/myonathanlinkedin/rust-algorithms)
+[![Total Modules](https://img.shields.io/badge/Algorithms-15%20Modules-blue?style=for-the-badge&logo=rust)](https://github.com/myonathanlinkedin/rust-algorithms)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/rust-algorithms)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -27,6 +27,7 @@
 | 12 | **Sub-1-Bit LLM Compression via Latent Factorization** | rust | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_190751_sub-1-bit_llm_compression_via/main.rs) |
 | 13 | **RustDNS: Writing a Recursive DNS Resolver in Rust, Byte by Byte** | rust | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_044036_rustdns__writing_a_recursive_d/main.rs) |
 | 14 | **Sentinel: The Command Plane** | rust | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_112030_sentinel__the_command_plane/main.rs) |
+| 15 | **Thread-Safe Bounded Blocking Queue with Condition Variables** | rust | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_132221_thread-safe_bounded_blocking_q/main.rs) |
 
 ---
 
@@ -55,4 +56,4 @@ cargo test --release
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-09 11:20 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-09 13:22 UTC*</sub>
