@@ -1,0 +1,13 @@
+{
+  "topic": "Bit-Parallel Levenshtein Distance Matrix Engine",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-09T14:38:57.073095+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "types.rs",
+    "engine.rs",
+    "main.rs"
+  ]
+}
