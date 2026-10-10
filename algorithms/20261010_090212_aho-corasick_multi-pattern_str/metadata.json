@@ -1,0 +1,12 @@
+{
+  "topic": "Aho-Corasick Multi-Pattern String Searching Automaton",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-10T09:02:12.656163+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
