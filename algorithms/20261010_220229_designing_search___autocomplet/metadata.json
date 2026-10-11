@@ -1,0 +1,12 @@
+{
+  "topic": "Designing Search & Autocomplete: Inverted Index, Trie, Ranking & Scale",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-10T22:02:29.770551+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "topic": "On the Cyclic Assumption of the Cow-Path Search Algorithm",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-08T14:06:51.844041+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
