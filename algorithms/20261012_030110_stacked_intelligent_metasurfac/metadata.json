@@ -1,0 +1,13 @@
+{
+  "topic": "Stacked Intelligent Metasurface-Based MultiModal Feature Fusion for Collaborative",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-12T03:01:10.834711+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "types.rs",
+    "engine.rs",
+    "main.rs"
+  ]
+}
