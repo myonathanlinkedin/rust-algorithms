@@ -1,0 +1,12 @@
+{
+  "topic": "The Complete Faang Preparation",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-13T11:01:08.070271+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
