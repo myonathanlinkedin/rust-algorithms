@@ -1,0 +1,12 @@
+{
+  "topic": "Bytecode Virtual Machine with Stack Evaluation Engine",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-15T05:56:10.560815+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
