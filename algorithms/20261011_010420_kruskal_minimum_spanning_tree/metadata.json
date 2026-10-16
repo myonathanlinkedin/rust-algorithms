@@ -1,0 +1,12 @@
+{
+  "topic": "Kruskal Minimum Spanning Tree with Disjoint-Set Union",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-11T01:04:20.322325+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}

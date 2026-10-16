@@ -1,0 +1,12 @@
+{
+  "topic": "Recursive DNS Query Resolver and Packet Parser",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-09T04:40:36.338357+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
