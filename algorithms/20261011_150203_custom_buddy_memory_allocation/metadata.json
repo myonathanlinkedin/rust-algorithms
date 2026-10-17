@@ -1,0 +1,12 @@
+{
+  "topic": "Custom Buddy Memory Allocation System",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-11T15:02:03.859084+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}

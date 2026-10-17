@@ -1,0 +1,13 @@
+{
+  "topic": "Symmetric Submodular Minimization from Comparisons",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-08T12:13:53.042459+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "types.rs",
+    "engine.rs",
+    "main.rs"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "topic": "Heap Allocation Profiler and Memory Locality Analyzer",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-11T08:16:44.820850+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}

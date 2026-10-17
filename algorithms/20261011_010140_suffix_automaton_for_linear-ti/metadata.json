@@ -1,0 +1,13 @@
+{
+  "topic": "Suffix Automaton for Linear-Time Substring Indexing",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-11T01:01:40.557886+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "types.rs",
+    "engine.rs",
+    "main.rs"
+  ]
+}
