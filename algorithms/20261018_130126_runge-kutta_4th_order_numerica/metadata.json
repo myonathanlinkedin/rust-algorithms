@@ -1,0 +1,12 @@
+{
+  "topic": "Runge-Kutta 4th Order Numerical ODE Integrator",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-18T13:01:26.003110+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
