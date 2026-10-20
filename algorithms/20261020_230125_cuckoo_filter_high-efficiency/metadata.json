@@ -1,0 +1,12 @@
+{
+  "topic": "Cuckoo Filter High-Efficiency Deletion Structure",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-20T23:01:25.312060+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
