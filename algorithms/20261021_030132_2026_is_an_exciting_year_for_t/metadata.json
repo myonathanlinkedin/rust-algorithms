@@ -1,0 +1,12 @@
+{
+  "topic": "2026 is an exciting year for the Rust compiler (and me)",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-21T03:01:32.976100+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
