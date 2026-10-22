@@ -1,0 +1,12 @@
+{
+  "topic": "Copy-on-Write Vector Memory Buffer Management",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-22T19:01:26.302909+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
