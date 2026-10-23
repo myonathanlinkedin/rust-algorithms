@@ -1,0 +1,12 @@
+{
+  "topic": "B-Tree Multiway Balanced Search Tree Node Splitter",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-23T13:03:15.722197+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
