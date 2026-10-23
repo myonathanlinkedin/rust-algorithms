@@ -1,0 +1,13 @@
+{
+  "topic": "Treap Randomized Binary Search Tree with Heap Priorities",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-10-23T15:02:22.795084+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "types.rs",
+    "engine.rs",
+    "main.rs"
+  ]
+}
