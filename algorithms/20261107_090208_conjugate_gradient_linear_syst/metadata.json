@@ -1,0 +1,12 @@
+{
+  "topic": "Conjugate Gradient Linear System Solver",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-07T09:02:08.677035+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
