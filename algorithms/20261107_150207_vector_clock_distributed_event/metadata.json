@@ -1,0 +1,13 @@
+{
+  "topic": "Vector Clock Distributed Event Ordering Mechanism",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-07T15:02:07.777687+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "types.rs",
+    "engine.rs",
+    "main.rs"
+  ]
+}
