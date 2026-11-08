@@ -1,0 +1,13 @@
+{
+  "topic": "Merkle Tree Verification and Proof Generator",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-08T11:01:17.112449+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "types.rs",
+    "engine.rs",
+    "main.rs"
+  ]
+}
