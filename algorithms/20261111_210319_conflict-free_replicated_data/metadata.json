@@ -1,0 +1,12 @@
+{
+  "topic": "Conflict-free Replicated Data Type (CRDT) PN-Counter",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-11T21:03:19.631181+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
