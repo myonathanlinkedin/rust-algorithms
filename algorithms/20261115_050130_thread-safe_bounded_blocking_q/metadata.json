@@ -1,0 +1,12 @@
+{
+  "topic": "Thread-Safe Bounded Blocking Queue with Condition Variables",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-15T05:01:30.878193+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
