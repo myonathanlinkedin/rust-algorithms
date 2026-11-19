@@ -1,0 +1,13 @@
+{
+  "topic": "K-D Tree Spatial Partitioning and Nearest Neighbor Search",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-19T09:03:41.305299+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "types.rs",
+    "engine.rs",
+    "main.rs"
+  ]
+}
