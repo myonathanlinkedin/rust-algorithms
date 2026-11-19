@@ -1,0 +1,12 @@
+{
+  "topic": "Cache-Oblivious Matrix Transposition Algorithm",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-19T13:02:24.434073+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
