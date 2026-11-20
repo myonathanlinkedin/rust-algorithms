@@ -1,0 +1,12 @@
+{
+  "topic": "How the European Commission rolled out Matrix to more than 40k staff",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-20T07:02:21.707361+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
