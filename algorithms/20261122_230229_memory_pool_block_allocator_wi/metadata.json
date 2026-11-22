@@ -1,0 +1,13 @@
+{
+  "topic": "Memory Pool Block Allocator with Free List",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-22T23:02:29.963213+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "types.rs",
+    "engine.rs",
+    "main.rs"
+  ]
+}
