@@ -1,0 +1,12 @@
+{
+  "topic": "Bit-Parallel Levenshtein Distance Stratum-Matrix",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-25T20:01:19.372979+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
