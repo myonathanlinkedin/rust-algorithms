@@ -1,0 +1,12 @@
+{
+  "topic": "In defense of lock poisoning in Rust",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-26T15:02:04.669160+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
