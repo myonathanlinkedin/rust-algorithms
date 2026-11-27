@@ -1,0 +1,12 @@
+{
+  "topic": "Actor Model Concurrency Engine with Mailbox Processing",
+  "language": "Rust",
+  "extension": ".rs",
+  "category": "rust",
+  "timestamp_utc": "2026-11-27T13:02:51.517860+00:00",
+  "source_file": "main.rs",
+  "files": [
+    "core.rs",
+    "main.rs"
+  ]
+}
